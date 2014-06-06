@@ -4,10 +4,10 @@ organization := "$organization$"
 
 version := "$version$"
 
-scalaVersion := "2.10.4"
+scalaVersion := "2.11.1"
 
 libraryDependencies ++= Seq(
-  "org.scalatest" % "scalatest_2.10" % "2.1.0" % "test"
+  "org.scalatest" %% "scalatest" % "2.1.7" % "test"
 )
 
 initialCommands := "import $organization$.$name;format="lower,word"$._"

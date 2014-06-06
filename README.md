@@ -9,6 +9,11 @@ This template is forked from [fayimora](https://github.com/fayimora/basic-scala-
 
 ## CHANGELOG
 
+### 0.1.4 (fork)
+* Scala 2.11.1
+* Sbt 0.13.5
+* Scalatest 2.1.7
+
 ### 0.1.3 (fork)
 * Scala 2.10.4
 * Sbt 0.13.1

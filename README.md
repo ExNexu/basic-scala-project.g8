@@ -9,6 +9,9 @@ This template is forked from [fayimora](https://github.com/fayimora/basic-scala-
 
 ## CHANGELOG
 
+### 0.1.6 (fork)
+* Scala 2.11.2
+
 ### 0.1.5 (fork)
 * Scalatest 2.2.0
 
@@ -29,7 +32,7 @@ This template is forked from [fayimora](https://github.com/fayimora/basic-scala-
 * Scalatest 1.9.2
 * Sbt 0.13.0
 
-### 0.1.0 (Initial release!)
+### 0.1.0
 * Scalatest 1.9.1 for testing
 * Sbt 0.12.4
 * Scala 2.10.2

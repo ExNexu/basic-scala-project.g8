@@ -2,12 +2,30 @@ This is a [giter8](https://github.com/n8han/giter8) template for generating a ne
 
 * `main` and `test` source directories
 * [ScalaTest](http://www.scalatest.org/)
-* SBT configuration for `0.13.7`, `Scala 2.11.5`, and `ScalaTest 2.2.4` dependencies
+* SBT configuration for `0.13.11`, `Scala 2.11.8`, and `ScalaTest 2.2.6` dependencies
 * project `name`, `organization` and `version` customizable as variables
 
 This template is forked from [fayimora](https://github.com/fayimora/basic-scala-project.g8). Since version 0.1.3, the fork differs from the original.
 
+## Use
+
+[Install giter8](https://github.com/foundweekends/giter8#installation):
+```
+curl https://raw.githubusercontent.com/foundweekends/conscript/master/setup.sh | sh
+```
+
+Apply the template
+```
+g8 ExNexu/basic-scala-project.g8
+```
+
 ## CHANGELOG
+
+### 0.1.10 (fork)
+* Scala 2.11.8
+* Sbt 0.13.11
+* Scalatest 2.2.6
+* Giter8 0.6.9
 
 ### 0.1.9 (fork)
 * Scala 2.11.5
